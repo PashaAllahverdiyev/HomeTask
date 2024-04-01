@@ -1,0 +1,14 @@
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\HomeTaskClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\HomeTaskClass.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\HomeTaskClass.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\HomeTaskClass.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net6.0\HomeTaskClass.exe
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net6.0\HomeTaskClass.deps.json
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net6.0\HomeTaskClass.runtimeconfig.json
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net6.0\HomeTaskClass.dll
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net6.0\HomeTaskClass.pdb
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\HomeTaskClass.dll
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\refint\HomeTaskClass.dll
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\HomeTaskClass.pdb
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\HomeTaskClass.genruntimeconfig.cache
+C:\Users\I'm Pasha\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net6.0\ref\HomeTaskClass.dll
